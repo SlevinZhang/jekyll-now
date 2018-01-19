@@ -9,3 +9,11 @@ title: 2018-1-19 Working Diary
 4. draw the architecture of whole project  
 5. Read papers  
 
+### End  
+* Diabetic Retinophy  
+  1. Download the data  
+  2. Preprocess the image  
+  3. crop the image into patches and save it in .dat  
+  4. Train the model and save the model
+  5. Evaluate the trained model and compare with other results
+  6. modify the parameter to find the best model
