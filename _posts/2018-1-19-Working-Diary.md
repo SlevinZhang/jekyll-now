@@ -1,6 +1,11 @@
 ---
 layout: post
-title: Working Diary
+title: 2018-1-19 Working Diary
 ---
-This is the first diary of 2018, since today, I will start updating my blog and record the work I do everyday.  
-Remember to summarize every few days to review.
+### Beginning  
+1. Help high school student to recover the data  
+2. Do research on preprocessing on fundus image  
+3. Read through the U-net and the github repository  
+4. draw the architecture of whole project  
+5. Read papers  
+
