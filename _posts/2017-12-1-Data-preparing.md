@@ -1,3 +1,7 @@
+---
+layout: post
+title: Data Preprocessing in Deep Learning
+---
 ### Preprocessing Data
 * create Validation, Sample, train, test, 4 types of data set  
 * make data is under the folder named by their own class(except test), we could use flow from dirctory to get data 
