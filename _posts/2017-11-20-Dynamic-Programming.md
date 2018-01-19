@@ -1,3 +1,7 @@
+---
+layout: post
+title: Dynamic Programming
+---
 ### Design Process
 1. Describe what the solution looks like（分析问题是否能用动态规划求解）
 	* 分析初始状态
