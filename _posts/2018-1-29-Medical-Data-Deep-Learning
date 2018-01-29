@@ -1,0 +1,7 @@
+---
+layout: post
+title: Why the medical images are different from other images in deep learning
+---
+### 1. specialized dataformat
+### 2. Large volumetric images  
+### 3. domain-specifi data
