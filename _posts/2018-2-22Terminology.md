@@ -20,6 +20,7 @@ titile: Terminology for machine learning
     * better neural network  
     * better training dataset  
     * better optimization algorithm  
+    * run more longer | use more complicate neural network
     
 7.train set | dev set | test set  
 8.Transfer learning & fine-tuning  
@@ -59,9 +60,7 @@ titile: Terminology for machine learning
     * compute two and find the max one
   * ELU  
     * exponential relu  
-    
-13.SVM  
-  * 
+
 14.Gradient boosting  
   * produces a prediction model in form of a ensemble of weak prediction models  
   * as a plugging in in the different loss and its gradient  
