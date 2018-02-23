@@ -72,4 +72,15 @@ titile: Terminology for machine learning
   * represent a categroical distribution  
   * How to calculate the softmax function for the input  
   * Used in Naive Bayes  
-  
+17.Optimization Algorithm  
+  * SGD  
+  * mini-batch SGD  
+  * Momentum( SGD + previous step)  
+   * Don't know to slow down
+  * Nesterov( SGD + consider about all the history gradient)
+   * need to slow down   
+  * Adagrad
+   * change the learning rate as well
+  * Adam
+   * Adagrad + Momentum
+   
